@@ -1,6 +1,6 @@
-# tools
+# List of Tools and Resources we can use to the most of our advantage:
 
-> Web Components, Tools for automated content creation.
+> Web Components, Tools for automated content creation, copy paste online sites, generators, minifier, alternator, alternative, synonym, design, coding, programming, branding, marketing, business, art, technology, health.
 
 ---
 
@@ -22,8 +22,15 @@
 - Instagram
 - Reddit
 - Twitter
-- Firebase
 - Anchor
+- Firebase
+- MOOTENS.org
+
+---
+
+---
+
+---
 
 ## Tags
 
