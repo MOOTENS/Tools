@@ -141,7 +141,11 @@ https://www.sessions.edu/color-calculator/
 
 ---
 
-## 
+## Advanced Online Serverless Resources
+
+https://serverless.css-tricks.com/services/major
+
+> Chris Coyier, CSS tricks, LOTS OF GREAT RESOURCES, INFORMATION, VALUE. Thank you
 
 ---
 
