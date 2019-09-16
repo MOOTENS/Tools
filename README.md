@@ -88,4 +88,63 @@ This underlying code for both the quote generator and emojifier are crucial for 
 
 ---
 
+## Word Animation Generator
+
+https://codepen.io/mootens/pen/bXBgGy
+
+---
+
+---
+
+---
+
+## Days Alive Generator
+
+https://imrodmartin.com/my-days
+
+> Just enter your DOB and the number of days live will pop up. 
+
+https://codepen.io/mootens/pen/jgEmNG
+
+http://jalu.ch/coding/days/en?year=1992&month=8&day=04&adjust=0
+
+> Has good Math Generator / algorithm that shows weeks, months, years, 
+
+
+---
+
+---
+
+---
+
+## Wolfram Alpha
+
+https://www.wolframalpha.com/
+
+> Good media generation for copy and paste, especially numbers.
+
+---
+
+---
+
+---
+
+## Color Generator
+
+https://www.sessions.edu/color-calculator/
+
+> Color Complementer, calculator, harmony, yin yang, opposites, colour pallettes.
+
+---
+
+---
+
+---
+
 ## 
+
+---
+
+---
+
+---
