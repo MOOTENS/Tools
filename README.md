@@ -48,6 +48,14 @@
 
 ---
 
+## Markdown to HTML Copy Paste Online Web Resource
+
+https://www.browserling.com/tools/markdown-to-html
+
+> Join with Codepen and test your HTML
+
+> This site has further resources, like html to markdown
+
 ---
 
 ---
