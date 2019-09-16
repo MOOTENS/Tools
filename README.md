@@ -61,3 +61,31 @@ https://www.browserling.com/tools/markdown-to-html
 ---
 
 ---
+
+## SVG Optimize SVG OMG SVGOMG by Jake Archibald. 
+
+https://jakearchibald.github.io/svgomg/
+
+> This lide loads crazy efficient. Moments after it finished downloading, it says it is ready to work offline. Wow FUCK. This is crazy. Motivating to continue my progression, and use SVG, HTML, Javascript, and PWA to the most of my advantage
+
+---
+
+---
+
+---
+
+## Emojify EMojifier MOOTENS Codepen Daily Quote Generator Code
+
+https://codepen.io/mootens/live/BaBWYaV
+
+This emojifies the text based on the javascript code.
+
+This underlying code for both the quote generator and emojifier are crucial for continuation of building of technology and MOOTENSbot continuation
+
+---
+
+---
+
+---
+
+## 
