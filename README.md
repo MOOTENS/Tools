@@ -41,6 +41,21 @@
   Test
   
   Test
+  
+---
+
+---
+
+---
+
+## Emojify EMojifier MOOTENS Codepen Daily Quote Generator Code
+
+https://codepen.io/mootens/live/BaBWYaV
+
+This emojifies the text based on the javascript code.
+
+This underlying code for both the quote generator and emojifier are crucial for continuation of building of technology and MOOTENSbot continuation
+
 
 ---
 
@@ -48,6 +63,53 @@
 
 ---
 
+## Color Generator
+
+https://www.sessions.edu/color-calculator/
+
+> Color Complementer, calculator, harmony, yin yang, opposites, colour pallettes.
+
+---
+
+---
+
+---
+
+## Remove Duplicate Words in Text Copy / Paste Online
+
+https://www.tracemyip.org/tools/remove-duplicate-words-in-text/
+
+---
+
+---
+
+---
+
+## Summarize Articles Copy / Paste Online
+
+https://smmry.com/7033468246#&SM_LENGTH=7
+
+> Pasting in a github tutorial:
+> Reduced by 92%
+> 10836 Characters to 871
+
+### Most importantly, It Works.
+
+---
+
+---
+
+---
+
+## Word Animation Generator
+
+https://codepen.io/mootens/pen/bXBgGy
+
+---
+
+---
+
+---
 ## Markdown to HTML Copy Paste Online Web Resource
 
 https://www.browserling.com/tools/markdown-to-html
@@ -68,19 +130,7 @@ https://jakearchibald.github.io/svgomg/
 
 > This lide loads crazy efficient. Moments after it finished downloading, it says it is ready to work offline. Wow FUCK. This is crazy. Motivating to continue my progression, and use SVG, HTML, Javascript, and PWA to the most of my advantage
 
----
 
----
-
----
-
-## Emojify EMojifier MOOTENS Codepen Daily Quote Generator Code
-
-https://codepen.io/mootens/live/BaBWYaV
-
-This emojifies the text based on the javascript code.
-
-This underlying code for both the quote generator and emojifier are crucial for continuation of building of technology and MOOTENSbot continuation
 
 ---
 
@@ -129,17 +179,7 @@ https://www.wolframalpha.com/
 
 ---
 
-## Color Generator
 
-https://www.sessions.edu/color-calculator/
-
-> Color Complementer, calculator, harmony, yin yang, opposites, colour pallettes.
-
----
-
----
-
----
 
 ## Advanced Online Serverless Resources
 
@@ -153,35 +193,13 @@ https://serverless.css-tricks.com/services/major
 
 ---
 
-## Remove Duplicate Words in Text Copy / Paste Online
 
-https://www.tracemyip.org/tools/remove-duplicate-words-in-text/
-
----
-
----
-
----
-
-## Summarize Articles Copy / Paste Online
-
-https://smmry.com/7033468246#&SM_LENGTH=7
-
-> Pasting in a github tutorial:
-> Reduced by 92%
-> 10836 Characters to 871
-
-### Most importantly, It Works.
-
----
-
----
-
----
 
 ## Letter / Character Count
 
 https://www.lettercount.com/
+
+> Just Search "character count" on google\
 
 ---
 
