@@ -31,8 +31,18 @@
 ---
 
 ---
+## Hashtag Generator from 1 word copy / paste
 
-## Tags
+https://www.all-hashtag.com/hashtag-generator.php
+
+---
+
+---
+
+---
+
+
+## Youtube Tags Copy Paste
 
 [TagsYoutube.com](https://tagsyoutube.com/home)
 
