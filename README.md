@@ -62,6 +62,15 @@ This underlying code for both the quote generator and emojifier are crucial for 
 ---
 
 ---
+## Emoji Mosaic
+
+https://ericandrewlewis.github.io/emoji-mosaic/
+
+---
+
+---
+
+---
 
 ## Color Generator
 
