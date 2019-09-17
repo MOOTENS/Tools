@@ -163,4 +163,30 @@ https://www.tracemyip.org/tools/remove-duplicate-words-in-text/
 
 ---
 
+## Summarize Articles Copy / Paste Online
+
+https://smmry.com/7033468246#&SM_LENGTH=7
+
+> Pasting in a github tutorial:
+> Reduced by 92%
+> 10836 Characters to 871
+
+### Most importantly, It Works.
+
+---
+
+---
+
+---
+
+## Letter / Character Count
+
+https://www.lettercount.com/
+
+---
+
+---
+
+---
+
 ## 
