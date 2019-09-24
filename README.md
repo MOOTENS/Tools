@@ -72,6 +72,12 @@ This underlying code for both the quote generator and emojifier are crucial for 
 ---
 
 ---
+
+## Estimage Reading Time and Character Count
+
+https://niram.org/read/
+
+
 ## Emoji Mosaic
 
 https://ericandrewlewis.github.io/emoji-mosaic/
