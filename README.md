@@ -8,29 +8,6 @@
 
 ---
 
-## Accounts
-
-> Important and Valuable enough to sign up and make an account
-
-- Gmail
-- Github
-- Codepen
-- Figma
-- Steemit
-- Dtube
-- Youtube
-- Instagram
-- Reddit
-- Twitter
-- Anchor
-- Firebase
-- MOOTENS.org
-
----
-
----
-
----
 ## Hashtag Generator from 1 word copy / paste
 
 https://www.all-hashtag.com/hashtag-generator.php
@@ -247,4 +224,26 @@ https://www.lettercount.com/
 
 ---
 
-## 
+## Accounts
+
+> Important and Valuable enough to sign up and make an account
+
+- Gmail
+- Github
+- Codepen
+- Figma
+- Steemit
+- Dtube
+- Youtube
+- Instagram
+- Reddit
+- Twitter
+- Anchor
+- Firebase
+- MOOTENS.org
+
+---
+
+---
+
+---
