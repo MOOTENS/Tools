@@ -58,6 +58,17 @@ https://www.all-hashtag.com/hashtag-generator.php
 
 ---
 
+## MOOTENS Quote Generator
+
+https://codepen.io/mootens/pen/ZEzZRMO
+
+---
+
+---
+
+---
+
+
 ## Emojify EMojifier MOOTENS Codepen Daily Quote Generator Code
 
 https://codepen.io/mootens/live/BaBWYaV
