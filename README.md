@@ -8,7 +8,29 @@
 
 ---
 
+## Accounts
 
+> Important and Valuable enough to sign up and make an account
+
+- Gmail
+- Github
+- Codepen
+- Figma
+- Steemit
+- Dtube
+- Youtube
+- Instagram
+- Reddit
+- Twitter
+- Anchor
+- Firebase
+- MOOTENS.org
+
+---
+
+---
+
+---
 ## Hashtag Generator from 1 word copy / paste
 
 https://www.all-hashtag.com/hashtag-generator.php
@@ -19,6 +41,9 @@ https://www.all-hashtag.com/hashtag-generator.php
 
 ---
 
+## Spell Check Best
+
+[SpellCheck](https://www.online-spellcheck.com/result/896cc436a561c3bac49f801ac5c4112793bac7e5)
 
 ## Youtube Tags Copy Paste
 
@@ -35,17 +60,6 @@ https://www.all-hashtag.com/hashtag-generator.php
 ---
 
 ---
-
-## MOOTENS Quote Generator
-
-https://codepen.io/mootens/pen/ZEzZRMO
-
----
-
----
-
----
-
 
 ## Emojify EMojifier MOOTENS Codepen Daily Quote Generator Code
 
@@ -233,26 +247,4 @@ https://www.lettercount.com/
 
 ---
 
-## Accounts
-
-> Important and Valuable enough to sign up and make an account
-
-- Gmail
-- Github
-- Codepen
-- Figma
-- Steemit
-- Dtube
-- Youtube
-- Instagram
-- Reddit
-- Twitter
-- Anchor
-- Firebase
-- MOOTENS.org
-
----
-
----
-
----
+## 
