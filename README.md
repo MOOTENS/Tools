@@ -8,6 +8,19 @@
 
 ---
 
+## [MOOTENS Quote Generator](https://codepen.io/mootens/pen/ZEzZRMO?editors=0010)
+
+Just click and there you have it.
+
+https://codepen.io/mootens/pen/ZEzZRMO?editors=0010
+
+---
+
+---
+
+---
+
+
 ## Hashtag Generator from 1 word copy / paste
 
 https://www.all-hashtag.com/hashtag-generator.php
