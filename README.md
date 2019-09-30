@@ -32,6 +32,15 @@ https://ttsreader.com/
 
 ---
 
+## [Youtube comment scraper](http://ytcomments.klostermann.ca/scrape)
+
+http://ytcomments.klostermann.ca/scrape
+
+---
+
+---
+
+---
 
 ## Hashtag Generator from 1 word copy / paste
 
