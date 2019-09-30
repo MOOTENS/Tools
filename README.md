@@ -20,6 +20,18 @@ https://codepen.io/mootens/pen/ZEzZRMO?editors=0010
 
 ---
 
+## Text To Speech
+
+[I prefer hindi female voice option](https://ttsreader.com/)
+
+https://ttsreader.com/
+
+---
+
+---
+
+---
+
 
 ## Hashtag Generator from 1 word copy / paste
 
