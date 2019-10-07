@@ -258,6 +258,13 @@ https://www.lettercount.com/
 
 ---
 
+## Optimize Images Online
+
+https://tinypng.com/
+
+> Drag Drop, max 20 at a time
+
+
 ## Accounts
 
 > Important and Valuable enough to sign up and make an account
