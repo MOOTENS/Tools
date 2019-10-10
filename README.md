@@ -265,6 +265,11 @@ https://tinypng.com/
 > Drag Drop, max 20 at a time
 
 
+## Google Earth + OBS + Snip 
+
+https://earth.google.com/web/@0,0,-24018.82718741a,36750128.22569847d,35y,0h,0t,0r/data=CgAoAQ
+
+
 ## Accounts
 
 > Important and Valuable enough to sign up and make an account
