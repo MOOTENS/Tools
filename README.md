@@ -19,14 +19,14 @@ https://codepen.io/mootens/live/abbdYPQ
 ---
 
 
-## [MOOTENS Quote Generator](https://codepen.io/mootens/pen/ZEzZRMO?editors=0010)
+## [MOOTENSbot Quote Generator](https://codepen.io/mootens/pen/ZEzZRMO?editors=0010)
 
 Just click and there you have it.
 
-https://codepen.io/mootens/pen/ZEzZRMO?editors=0010
+https://codepen.io/mootens/live/ZEzZRMO?editors=0010
 
 ---
-
+![MOOTENSbot Quote Generator](https://s3-us-west-2.amazonaws.com/s.cdpn.io/2971879/11.jpg)
 ---
 
 ---
