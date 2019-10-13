@@ -8,6 +8,13 @@
 
 ---
 
+## MOOTENSbot 80 character Instagram Description Generator
+
+> Studies show Instagram posts with captions around 40-80 characters show the most engagement
+
+---
+
+
 ## [MOOTENS Quote Generator](https://codepen.io/mootens/pen/ZEzZRMO?editors=0010)
 
 Just click and there you have it.
