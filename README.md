@@ -63,9 +63,9 @@ https://www.all-hashtag.com/hashtag-generator.php
 
 ---
 
-## Spell Check Best
+## Spell Check
 
-[SpellCheck](https://www.online-spellcheck.com/result/896cc436a561c3bac49f801ac5c4112793bac7e5)
+[SpellCheck](https://www.online-spellcheck.com/)
 
 ## Youtube Tags Copy Paste
 
@@ -125,9 +125,9 @@ https://www.sessions.edu/color-calculator/
 
 ---
 
-## Remove Duplicate Words in Text Copy / Paste Online
+## [Remove Duplicate Words in Text Copy / Paste Online](http://www.text-filter.com/Remove-Delete-Non-Alphanumeric-Characters-From-Text-Excel-Online.htm)
 
-https://www.tracemyip.org/tools/remove-duplicate-words-in-text/
+http://www.text-filter.com/Remove-Delete-Non-Alphanumeric-Characters-From-Text-Excel-Online.htm
 
 ---
 
