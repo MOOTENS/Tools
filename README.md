@@ -8,6 +8,16 @@
 
 ---
 
+## [PDF to Markdown!](https://pdf2md.morethan.io/)
+
+https://pdf2md.morethan.io/
+
+
+> offline! no information is transmitted!
+
+
+---
+
 ## [MOOTENSbot 80 character Instagram Description Generator](https://codepen.io/mootens/live/abbdYPQ)
 
 https://codepen.io/mootens/live/abbdYPQ
