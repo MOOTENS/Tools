@@ -238,6 +238,14 @@ https://www.remove.bg/upload
 
 ---
 
+## [Emoji copy / find](https://emojipedia.org/)
+
+
+https://emojipedia.org/
+
+
+---
+
 
 ## Wolfram Alpha
 
