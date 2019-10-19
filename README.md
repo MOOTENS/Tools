@@ -41,6 +41,14 @@ https://codepen.io/mootens/live/ZEzZRMO?editors=0010
 
 ---
 
+
+## [Spanish Corrector](https://www.spanishcorrector.com/)
+
+https://www.spanishcorrector.com/
+
+---
+
+
 ## Text To Speech
 
 [I prefer hindi female voice option](https://ttsreader.com/)
