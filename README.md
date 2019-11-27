@@ -57,6 +57,10 @@ https://ttsreader.com/
 
 ---
 
+## Text To Speech Spreeder type
+
+https://www.naturalreaders.com/online/
+
 ---
 
 ---
