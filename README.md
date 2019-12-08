@@ -8,6 +8,20 @@
 
 ---
 
+## [Speech to text Voice Notepad](https://dictation.io/speech)
+
+https://dictation.io/speech
+
+---
+
+
+## [Speech to text speechnotes](https://speechnotes.co/)
+
+https://speechnotes.co/
+
+---
+
+
 ## [PDF to Markdown!](https://pdf2md.morethan.io/)
 
 https://pdf2md.morethan.io/
