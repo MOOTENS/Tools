@@ -8,6 +8,12 @@
 
 ---
 
+[Youtube Thumbnail Text Generator](https://www.canva.com/design/DADv-b1EIZI/z17-udw0xuUKkdzda5PjiQ/edit?category=tACZCnmCPGY&utm_source=onboarding)
+
+(Use In Conjunction With SnipPaste Application)\
+
+https://www.canva.com/design/DADv-b1EIZI/z17-udw0xuUKkdzda5PjiQ/edit?category=tACZCnmCPGY&utm_source=onboarding
+
 ## [Speech to text Voice Notepad](https://dictation.io/speech)
 
 https://dictation.io/speech
