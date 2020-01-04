@@ -8,6 +8,17 @@
 
 ---
 
+[ASCII Art Generator](http://patorjk.com/software/taag/#p=display&f=Slant&t=DEAN%20MASALTA)
+
+http://patorjk.com/software/taag/#p=display&f=Slant&t=DEAN%20MASALTA
+
+Font: **Slant** works best with commenting code (especially HTML code)!
+
+
+
+---
+
+
 [Youtube Thumbnail Text Generator](https://www.canva.com/design/DADv-b1EIZI/z17-udw0xuUKkdzda5PjiQ/edit?category=tACZCnmCPGY&utm_source=onboarding)
 
 (Use In Conjunction With SnipPaste Application)\
