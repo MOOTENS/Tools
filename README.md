@@ -8,6 +8,12 @@
 
 ---
 
+[Remove Duplicate WORDS](https://www.tracemyip.org/tools/remove-duplicate-words-in-text/)
+
+https://www.tracemyip.org/tools/remove-duplicate-words-in-text/
+
+---
+
 [Stock Images](https://pixabay.com/photos/frame-picture-frame-photo-frame-1992102/)
 
 make a free account
